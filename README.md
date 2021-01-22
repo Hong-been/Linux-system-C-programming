@@ -1,6 +1,6 @@
 # Linux-system-programming
 - Socket, log-in and reservation in C
-- If you want to use this program, you should run the "MAkefile" which is in each directory
+- If you want to use this program, you should run the "Makefile" which is in each directory
 
 ------------------------------------------------------------------
 0. An input example(for client)
